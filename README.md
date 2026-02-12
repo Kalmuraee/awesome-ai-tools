@@ -192,6 +192,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 ### Meeting assistants
+- [Notah.ai](https://notah.ai/) - AI meeting assistant with 95%+ accuracy on 12 Arabic dialects and English-Arabic code-switching.
 
 - [Otter.ai](https://otter.ai/) - A meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries.
 - [Cogram](https://www.cogram.com/) - Cogram takes automatic notes in virtual meetings and identifies action items.
